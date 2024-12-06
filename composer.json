@@ -1,0 +1,5 @@
+{
+    "name": "civicrm/branch",
+    "description": "RiverLea Downstream Extension",
+    "type": "civicrm-ext"
+}

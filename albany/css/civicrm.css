@@ -1,0 +1,17 @@
+/*
+    Name: Albany;
+    Branch version: 1.80.14;
+    Front, back or both: Front;
+    Description: RiverLea subtheme/stream for Green Party of Ontario, for JMA by NW
+*/
+
+@import url(/libraries/civicrm/core/ext/riverlea/core/css/civicrm.css);
+
+:root {
+--crm-version: 'Albany, v' var(--crm-release);
+--crm-btn-radius: 1.2rem;
+}
+
+.crm-container {
+    border: 3px solid blue;
+}
