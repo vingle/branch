@@ -10,7 +10,7 @@ use CRM_branch_ExtensionUtil as E;
 function branch_civicrm_themes(&$themes) {
   $themes['albany'] = array(
     'ext' => 'branch',
-    'title' => 'Albany (GPO front-end)',
+    'title' => 'Albany',
     'prefix' => 'albany/',
     'search_order' => array( 'albany',  '_riverlea_core_', '_fallback_'),
   );
